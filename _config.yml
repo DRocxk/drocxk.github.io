@@ -3,7 +3,7 @@
 title: DRocxk Website
 description: Ethical Hacker & CTF Player
 taglong: Ethical Hacker & CTF Player
-tagshort: Test
+tagshort: Here is my work!
 url: https://drocxk.github.io/
 baseurl: ""
 permalink: pretty
@@ -19,7 +19,7 @@ photo: /assets/jpg/photo.jpg
 # social media links
 
 social:
-  facebook: username
+  facebook: blog
   github: DRocxk
   instagram: username
   linkedin: username
